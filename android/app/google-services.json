@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541503763711",
+    "project_id": "tictactoe-42a1e",
+    "storage_bucket": "tictactoe-42a1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541503763711:android:043381ee4182bf261dc8ca",
+        "android_client_info": {
+          "package_name": "com.learngestures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541503763711-dqbd10su78klpm0jc80cchi7p97taarl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQIz0ZmqvSMIPf5XPOdV7gmtYHltcjM_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541503763711-dqbd10su78klpm0jc80cchi7p97taarl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
